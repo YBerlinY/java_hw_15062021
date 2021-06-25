@@ -136,7 +136,7 @@ public class hw3 {
                 break;
             }
         }
-        return midle == summ / 2;
+        return midle == summ / 2 ;
     }
 
 }

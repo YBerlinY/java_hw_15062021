@@ -1,7 +1,4 @@
 package lesson8;
 
 public class empty {
-    public static void main(String[] args) {
-
-    }
 }

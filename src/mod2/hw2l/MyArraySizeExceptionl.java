@@ -1,10 +1,9 @@
-package mod2.lesson2.hw2;
+package mod2.hw2l;
 
-public class MyArraySizeException extends RuntimeException {
+public class MyArraySizeExceptionl extends RuntimeException {
     private static final String MSG = "Ошибка: MyArraySizeException!\n Размер массива НЕ 4x4";
 
-    public MyArraySizeException() {
+    public MyArraySizeExceptionl() {
         super(String.format(MSG));
     }
 }
-

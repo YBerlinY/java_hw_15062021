@@ -46,6 +46,7 @@ public class AppHw2 {
                 }
 
             }
+
             return summ;
         }
     }
